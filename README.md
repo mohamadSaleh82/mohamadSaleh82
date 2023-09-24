@@ -37,6 +37,35 @@
   </p>
   <a href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+
+<details open>
+  <summary><h2>📊 Github Stats and Activity</h2></summary>
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="#">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
+    </a>
+
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohamadsaleh82&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="#"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+</details>
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
@@ -141,32 +170,4 @@
       <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
-</details>
-
-<details>
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
-
-  <h3>🔥 Streak Stats</h3>
-
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-  <p>
-    <a href="#">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
-    </a>
-
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohamadsaleh82&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
-  <a href="#"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
