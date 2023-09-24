@@ -21,7 +21,7 @@
   <a href="#"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<details open> 
+<details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
  <p align="left">
@@ -37,8 +37,8 @@
   </p>
   <a href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-<details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+<details>
+  <summary><h2>🛠️ My Favorite Tools --></h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
@@ -143,7 +143,7 @@
   </p>
 </details>
 
-<details> 
+<details>
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
@@ -165,7 +165,7 @@
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
+
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
