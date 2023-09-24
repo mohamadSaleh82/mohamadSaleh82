@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/mk_ss30"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/MVCecLe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="www.linkedin.com/in/mohamad-khosravi-90176b228" alt="linkedin" title="linkedin"><img width="32px" src="https://i.imgur.com/44zuY2m.png"/></a>
+  <a href="https://www.linkedin.com/in/mohamad-khosravi-90176b228" alt="linkedin" title="linkedin"><img width="32px" src="https://i.imgur.com/44zuY2m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="#"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
