@@ -38,7 +38,7 @@
   <a href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 <details>
-  <summary><h2>🛠️ My Favorite Tools sdios</h2></summary>
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages </h3>
