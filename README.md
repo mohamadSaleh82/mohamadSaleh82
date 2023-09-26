@@ -2,7 +2,7 @@
 <br>
 <p align="center">
     <h1 align="center">Mohamad Saleh</h1>
-    <a align="center" href="https://opan.ir">opan.ir</a>
+    <p align="center"><a align="center" href="https://opan.ir">opan.ir</a></p>
 </p>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
