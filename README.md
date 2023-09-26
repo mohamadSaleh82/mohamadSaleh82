@@ -37,7 +37,7 @@
 
   <h3>🔥 Streak Stats</h3>
 
-  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
   <p align="center">
     <a href="#">
       <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
@@ -46,7 +46,7 @@
 
   <h3>💻 GitHub Profile Stats</h3>
 
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
 
   <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohamadsaleh82&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" align="center"/></a></p>
   <h3>⚡ Most Used Languages</h3>
@@ -55,13 +55,13 @@
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 
   <a href="#"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 <details>
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
-  <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
+
 
   <h3>👨‍💻 Programming and Markup Languages </h3>
 
