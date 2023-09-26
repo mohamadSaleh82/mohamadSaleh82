@@ -39,7 +39,7 @@
 
 
   <p align="center">
-    <a href="#">
+    <a href="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true">
       <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p >
