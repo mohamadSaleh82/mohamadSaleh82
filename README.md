@@ -39,7 +39,7 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p align="center">
-      <img title="🔥 Get streak stats" alt="streak" src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats" alt="streak" src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian"/>
   </p >
 
   <h3>💻 GitHub Profile Stats</h3>
