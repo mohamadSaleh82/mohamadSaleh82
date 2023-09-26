@@ -2,7 +2,6 @@
 <br>
 <p align="center">
     <h1 align="center">Mohamad Saleh</h1>
-    <br>
     <h1 align="center">opan.ir</h1>
 </p>
 <p align="center">
