@@ -39,8 +39,8 @@
 
 
   <p align="center">
-    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true">
-      <img src="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
+    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82">
+      <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82"/>
     </a>
   </p >
 
