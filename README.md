@@ -23,7 +23,10 @@
 </p>
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
+<p align="left">
+    <a href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp-with-WinForms"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp-with-WinForms&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
+  </p>
  <p align="left">
     <a href="https://github.com/mohamadSaleh82/mohamadSaleh82"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=mohamadSaleh82&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
