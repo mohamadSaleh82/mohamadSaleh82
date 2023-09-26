@@ -13,23 +13,23 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/mohamad_saleh_82"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/3ISDlPM.png"/></a>
+  <a target="_blank" href="https://t.me/mohamad_saleh_82"><img width="32px" alt="telegram" title="telegram" src="https://i.imgur.com/3ISDlPM.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/mk_ss30"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/MVCecLe.png"/></a>
+  <a target="_blank" href="https://twitter.com/mk_ss30"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/MVCecLe.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/mohamad-khosravi-90176b228" alt="linkedin" title="linkedin"><img width="32px" src="https://i.imgur.com/44zuY2m.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/mohamad-khosravi-90176b228" alt="linkedin" title="linkedin"><img width="32px" src="https://i.imgur.com/44zuY2m.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="#"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
+  <a target="_blank" href="https://www.instagram.com/mh.saleh_/"><img width="32px" alt="instagram" title="instagram" src="https://i.imgur.com/tyqyBbq.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
  <p align="left">
-    <a href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <a href="https://github.com/mohamadSaleh82/mohamadSaleh82"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=mohamadSaleh82&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
   </p>
-  <p align="center"><a href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p align="center"><a target="_blank" href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details></p>
 
 
