@@ -43,7 +43,7 @@
 
   <p align="center">
     <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false&title_color=fb8c0"/>
     </a>
   </p >
   
