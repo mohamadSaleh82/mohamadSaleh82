@@ -42,8 +42,8 @@
 
 
   <p align="center">
-    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true">
-      <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false"/>
     </a>
   </p >
   
