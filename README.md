@@ -42,8 +42,8 @@
 
 
   <p align="center">
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false&title_color=fb8c0"/>
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=highcontrast&hide_border=false&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
     </a>
   </p >
   
@@ -52,9 +52,9 @@
 
 
 
-  <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&title_color=fb8c0" height="192px" align="center"/></a></p>
+  <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="192px" align="center"/></a></p>
   <h3>⚡ Most Used Languages</h3>
-  <p align="center"><a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact&title_color=fb8c0" height="192px"/></a></p>
+  <p align="center"><a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" height="192px"/></a></p>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
