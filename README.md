@@ -52,7 +52,7 @@
 
 
 
-  <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" height="192px" align="center"/></a></p>
+  <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamadsaleh82&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&bg_color=1F222E&title_color=F85D7F" height="192px" align="center"/></a></p>
   <h3>⚡ Most Used Languages</h3>
   <p align="center"><a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a></p>
   <br/>
