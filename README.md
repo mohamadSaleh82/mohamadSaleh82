@@ -63,6 +63,7 @@
 
   <a href="#"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
+<hr>
 
 ### Main skills:
 <div style="display: inline_block"><br>
