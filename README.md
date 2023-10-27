@@ -45,10 +45,10 @@
   <h3>💻 GitHub Profile Stats</h3>
 
 <div align="center">
-   <a href="https://github.com/wachidamirul">
+   <a href="https://github.com/mohamadsaleh82">
     <img height="140em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mohamadsaleh82&locale=en&show_icons=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883&hide=contribs,issues" alt="Github Stats">
    </a>
-   <a href="https://github.com/wachidamirul">
+   <a href="https://github.com/mohamadsaleh82">
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
    </a>
    <br><br>
