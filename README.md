@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Mohamad%20Saleh%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236ب9ب89&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236f9f89&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=grey">
+    <img id="preview" src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=6f9f89">
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@
 <details open>
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
  <p align="left">
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Portfolio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Portfolio&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
     <!-- <a href="https://github.com/mohamadSaleh82/mohamadSaleh82"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=mohamadSaleh82&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a> -->
 
   </p>
-  <p align="center"><a target="_blank" href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <p align="center"><a target="_blank" href="https://github.com/mohamadsaleh82?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=6f9f89&logo=repo"/></a>
 </details></p>
 
 
@@ -180,7 +180,5 @@
   </p>
 </details>
 
-<img width=100% title="Hornet-Developer" alt="Hornet-Developer"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:41b883,50:175c3d,100:277753&section=footer&height=80" width="100%"/>
