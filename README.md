@@ -36,8 +36,8 @@
 
 
   <p align="center">
-    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883">
-      <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883"/>
+    <a href="#">
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohamadsaleh82&theme=vue-dark&hide_border=true" alt="GitHub Streak" /></a>
     </a>
   </p >
   
