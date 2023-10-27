@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Mohamad%20Saleh%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236ب9ب89&center=true&width=280&height=50">
 </p>
 <br>
 <p align="center">
