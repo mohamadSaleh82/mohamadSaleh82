@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:277753,25:175c3d,75:175c3d,100:277753&height=250&section=header&text=Mohamad%20Saleh%20&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Freelancer%20%C2%B7%20Fullstack%20Developer&descAlignY=55&descAlign=61.5&fontColor=ffffff)
-
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%236f9f89&center=true&width=280&height=50">
 </p>
-<br>
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=6f9f89">
 </p>
@@ -38,26 +36,28 @@
 
 
   <p align="center">
-    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true">
-      <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true"/>
+    <a href="http://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883">
+      <img src="https://streak-stats.demolab.com/?user=mohamadsaleh82&theme=monokai-metallian&hide_border=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883"/>
     </a>
   </p >
   
 
   <h3>💻 GitHub Profile Stats</h3>
 
-
-
-  <p align="center"><a href="#"><img alt="mohamadsaleh82's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mohamadsaleh82&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" align="center"/></a></p>
-  <h3>⚡ Most Used Languages</h3>
-  <p align="center"><a href="#"><img alt="mohamadsaleh82's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a></p>
-  <br/>
+<div align="center">
+   <a href="https://github.com/wachidamirul">
+    <img height="140em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=mohamadsaleh82&locale=en&show_icons=true&bg_color=273849&title_color=41b883&text_color=fffefe&icon_color=41b883&hide=contribs,issues" alt="Github Stats">
+   </a>
+   <a href="https://github.com/wachidamirul">
+      <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+   </a>
+   <br><br>
+   <img src="https://komarev.com/ghpvc/?username=mohamadsaleh82&color=4dc720&style=flat" alt="Github Profile Views" />
+   <img src="https://img.shields.io/github/followers/mohamadsaleh82?color=4C1&logo=github" alt="Github Followers" />
+</div>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-
-  <a href="#"><img alt="mohamadsaleh82's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mohamadsaleh82&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 <hr>
 
