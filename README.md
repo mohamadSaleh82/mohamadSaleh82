@@ -72,19 +72,10 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Activity Graph</h2>
 <div align="center">
   <a href="https://github.com/mohamadsaleh82">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=mohamadsaleh82&show_icons=true&theme=react&rank_icon=github&bg_color=1F222E&title_color=6f9f89&icon_color=F8D866&text_color=ffffff&hide_border=true" />
-  </a>
-  <a href="https://github.com/mohamadsaleh82">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&layout=compact&theme=react&bg_color=1F222E&title_color=6f9f89&icon_color=F8D866&text_color=ffffff&hide_border=true" />
-  </a>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/mohamadsaleh82">
-    <img src="https://streak-stats.demolab.com?user=mohamadsaleh82&theme=react&bg_color=1F222E&mode=weekly&hide_border=true" alt="Streak" />
+    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohamadsaleh82&bg_color=1F222E&color=6f9f89&line=6f9f89&point=FFFFFF&hide_border=true" />
   </a>
 </div>
 
