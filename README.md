@@ -72,10 +72,23 @@
 
 <br>
 
-<h2 align="center">📊 GitHub Activity Graph</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/mohamadsaleh82">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mohamadsaleh82&bg_color=1F222E&color=6f9f89&line=6f9f89&point=FFFFFF&hide_border=true" />
+    <img src="https://img.shields.io/github/followers/mohamadsaleh82?style=for-the-badge&logo=github&color=1F222E&labelColor=6f9f89" alt="Followers" />
+  </a>
+  <a href="https://github.com/mohamadsaleh82">
+    <img src="https://img.shields.io/github/stars/mohamadsaleh82?style=for-the-badge&logo=github&color=1F222E&labelColor=6f9f89" alt="Total Stars" />
+  </a>
+  <a href="https://github.com/mohamadsaleh82">
+    <img src="https://img.shields.io/github/forks/mohamadsaleh82?style=for-the-badge&logo=github&color=1F222E&labelColor=6f9f89" alt="Forks" />
+  </a>
+   <br/>
+   <a href="https://github.com/mohamadsaleh82">
+    <img src="https://img.shields.io/github/issues/mohamadsaleh82?style=for-the-badge&logo=github&color=1F222E&labelColor=6f9f89" alt="Issues" />
+  </a>
+  <a href="https://github.com/mohamadsaleh82">
+    <img src="https://img.shields.io/github/issues-pr/mohamadsaleh82?style=for-the-badge&logo=github&color=1F222E&labelColor=6f9f89" alt="Pull Requests" />
   </a>
 </div>
 
