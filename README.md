@@ -13,6 +13,7 @@
   <a target="_blank" href="https://twitter.com/mk_ss30"><img height="30" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a target="_blank" href="https://www.linkedin.com/in/mohamad-khosravi/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a target="_blank" href="mailto:mohamad.khosravi.dev@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a target="_blank" href="https://pay.ypaylink.com/personal-link/1361/cdd1dee25b587635bac9d4941d6b560f3cb5d1fd"><img height="30" src="https://img.shields.io/badge/Donate-Support%20My%20Work-6f9f89?style=for-the-badge&logo=kofi&logoColor=white"/></a>
 </p>
 
 <br>
@@ -63,6 +64,14 @@
 
 <br>
 
+<h2 align="center">💖 Support My Work</h2>
+<p align="center">
+  <a href="https://pay.ypaylink.com/personal-link/1361/cdd1dee25b587635bac9d4941d6b560f3cb5d1fd" target="_blank">
+    <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-6f9f89?style=for-the-badge&logo=kofi&logoColor=white" alt="Donate">
+  </a>
+</p>
+
+<br>
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
   <a href="https://github.com/mohamadsaleh82">
