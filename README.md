@@ -38,13 +38,22 @@
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamadsaleh82&show_icons=true&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=react&background=1F222E&ring=6f9f89&fire=F8D866&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6f9f89&sideLabels=6f9f89&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&layout=compact&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&text_color=ffffff" alt="Top Languages">
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamadsaleh82&show_icons=true&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=react&background=1F222E&ring=6f9f89&fire=F8D866&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6f9f89&sideLabels=6f9f89&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <br>
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&layout=compact&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&text_color=ffffff" alt="Top Languages">
+    </td>
+  </tr>
+</table>
 
 <br>
 
