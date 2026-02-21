@@ -59,14 +59,30 @@
 
 ### 💻 Featured Projects
 
-<p align="center">
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=django-blog-rtl&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 3"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Food-Delivery-API"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Food-Delivery-API&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 4"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Flask-SocketIO-Chat"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Flask-SocketIO-Chat&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 5"></a>
-    <a target="_blank" href="https://github.com/mohamadSaleh82/Django-Shop-RTL"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Django-Shop-RTL&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 6"></a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"></a>
+    </td>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"></a>
+    </td>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=django-blog-rtl&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 3"></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/Food-Delivery-API"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Food-Delivery-API&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 4"></a>
+    </td>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/Flask-SocketIO-Chat"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Flask-SocketIO-Chat&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 5"></a>
+    </td>
+    <td align="center" width="33%">
+      <a target="_blank" href="https://github.com/mohamadSaleh82/Django-Shop-RTL"><img width="100%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Django-Shop-RTL&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 6"></a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -76,9 +92,13 @@
 
 ### ☕ Support My Work
 
-<a href="https://pay.ypaylink.com/personal-link/1361/cdd1dee25b587635bac9d4941d6b560f3cb5d1fd">
-  <img src="https://img.shields.io/badge/Donate-Support%20My%20Work-6f9f89?style=for-the-badge&logo=kofi&logoColor=white" alt="Donate">
-</a>
+<p align="center">
+  <br>
+  <i>If you found my work helpful, consider supporting me! Every little bit helps keep the coding magic alive. ✨</i><br><br>
+  <a href="https://pay.ypaylink.com/personal-link/1361/cdd1dee25b587635bac9d4941d6b560f3cb5d1fd" target="_blank">
+    <img src="https://img.shields.io/badge/-Donate_via_YPayLink-1F222E?style=for-the-badge&logo=kofi&logoColor=F8D866&labelColor=6f9f89" alt="Donate YPayLink" height="40">
+  </a>
+</p>
 
 <br><br>
 
