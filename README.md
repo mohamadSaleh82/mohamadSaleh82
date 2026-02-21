@@ -36,67 +36,28 @@
 
 <br>
 
-### � GitHub Analytics
+### 📊 GitHub Analytics
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohamadSaleh82&show_icons=true&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadSaleh82&theme=react&background=1F222E&ring=6f9f89&fire=F8D866&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6f9f89&sideLabels=6f9f89&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamadSaleh82&layout=compact&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&text_color=ffffff" alt="Top Languages">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mohamadsaleh82&show_icons=true&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamadsaleh82&theme=react&background=1F222E&ring=6f9f89&fire=F8D866&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=6f9f89&sideLabels=6f9f89&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mohamadsaleh82&layout=compact&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&text_color=ffffff" alt="Top Languages">
+</p>
 
 <br>
 
 ### 💻 Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 1">
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/mohamadSaleh82/File-Stream-bot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 2">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mohamadSaleh82/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=django-blog-rtl&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 3">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/mohamadSaleh82/Food-Delivery-API">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Food-Delivery-API&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 4">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/mohamadSaleh82/Flask-SocketIO-Chat">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Flask-SocketIO-Chat&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 5">
-      </a>
-    </td>
-    <td align="center">
-       <a href="https://github.com/mohamadSaleh82/Django-Shop-RTL">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Django-Shop-RTL&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&text_color=ffffff" alt="Project 6">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Desktop-Hospital-CRM-in-C-Sharp"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Desktop-Hospital-CRM-in-C-Sharp&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 1"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/File-Stream-bot"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=File-Stream-bot&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 2"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Portfolio"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=django-blog-rtl&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 3"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Food-Delivery-API"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Food-Delivery-API&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 4"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Flask-SocketIO-Chat"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Flask-SocketIO-Chat&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 5"></a>
+    <a target="_blank" href="https://github.com/mohamadSaleh82/Django-Shop-RTL"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=mohamadSaleh82&repo=Django-Shop-RTL&theme=react&bg_color=1F222E&title_color=6f9f89&hide_border=true&icon_color=F8D866&show_icons=false" alt="Project 6"></a>
+</p>
 
 <br>
 
