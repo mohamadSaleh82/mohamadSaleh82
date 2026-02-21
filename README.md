@@ -96,7 +96,7 @@
   <br>
   <i>If you found my work helpful, consider supporting me! Every little bit helps keep the coding magic alive. ✨</i><br><br>
   <a href="https://pay.ypaylink.com/personal-link/1361/cdd1dee25b587635bac9d4941d6b560f3cb5d1fd" target="_blank">
-    <img src="https://img.shields.io/badge/-Donate_via_YPayLink-1F222E?style=for-the-badge&logo=kofi&logoColor=F8D866&labelColor=6f9f89" alt="Donate YPayLink" height="40">
+    <img src="https://img.shields.io/badge/-Donate-1F222E?style=for-the-badge&logo=kofi&logoColor=F8D866&labelColor=6f9f89" alt="Donate YPayLink" height="40">
   </a>
 </p>
 
